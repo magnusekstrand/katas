@@ -1,0 +1,17 @@
+testConvert15To30Correctly (__main__.FizzBuzzTest) ... ok
+testConvert15ToFizzBuzz (__main__.FizzBuzzTest) ... ok
+testConvert31To40Correctly (__main__.FizzBuzzTest) ... ok
+testConvert3ToFizz (__main__.FizzBuzzTest) ... ok
+testConvert41To50Correctly (__main__.FizzBuzzTest) ... ok
+testConvert51To60Correctly (__main__.FizzBuzzTest) ... ok
+testConvert5ToBuzz (__main__.FizzBuzzTest) ... ok
+testConvert61To70Correctly (__main__.FizzBuzzTest) ... ok
+testConvert6And9ToFizz (__main__.FizzBuzzTest) ... ok
+testConvert71To80Correctly (__main__.FizzBuzzTest) ... ok
+testConvert81To90Correctly (__main__.FizzBuzzTest) ... ok
+testReturn1And2AsIs (__main__.FizzBuzzTest) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.001s
+
+OK
